@@ -5,6 +5,26 @@
   padding: 0;
 }
 
+
+a {
+  text-decoration: none;
+  color: #d49726;
+}
+
+.h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.h3 {
+  font-family: Raleway;
+  width: fit-content;
+  color: black;
+}
+
+
 .App {
   text-align: center;
   display: flex;
