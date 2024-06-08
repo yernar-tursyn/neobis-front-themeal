@@ -90,4 +90,9 @@
 .meal-block-info {
     font-family: Raleway;
     color: #000;
+    width: fit-content;
+}
+
+.search-results {
+    display: flex;
 }

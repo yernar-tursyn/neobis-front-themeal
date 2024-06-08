@@ -65,6 +65,7 @@
 .meal-detail-instruction pre {
     font-family: Raleway;
     white-space: normal;
+    text-align: start;
 }
 
 .meal-detail-youtube {
