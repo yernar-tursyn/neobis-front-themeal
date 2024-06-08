@@ -11,6 +11,13 @@ a {
   color: #d49726;
 }
 
+h1 {
+  margin: 0;
+  color: white;
+  font-size: inherit;
+  font-family: Cardo;
+}
+
 .h2 {
   font-size: 30px;
   margin-bottom: 20px;
